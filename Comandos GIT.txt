@@ -1,0 +1,12 @@
+*****Comandos git*****
+
+git init = transforma a pasta comum em um repositório
+git status = mostra o status de alterações dos projetos
+git pull = envia as alterações ao repositório
+git add = adiciona as arquivos/alterações feitas
+git commit = salva as arquivos/alterações feitas
+git clone = faz o download do projeto no github
+clear = limpa os comandos
+cd = entra nos diretórios
+cd .. = volta nos diretórios
+git remote
